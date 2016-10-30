@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "269448756339",
+    "firebase_url": "https://swingvy-6948a.firebaseio.com",
+    "project_id": "swingvy-6948a",
+    "storage_bucket": "swingvy-6948a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269448756339:android:cda7925afb85b02c",
+        "android_client_info": {
+          "package_name": "com.swingvy.android.hr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "269448756339-n5bc7g8ef1gvo0787o34mnusdrqcd019.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgli5u45GcV5d8DLayEgHjMenQi4btHMg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
